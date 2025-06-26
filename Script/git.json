@@ -1,51 +1,51 @@
 [
     {
-        "p_relative_parameter" : "neha-dev-dot/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Product_Categories.csv",
+        "p_relative_parameter" : "neha-dev-dot/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data_File/AdventureWorks_Product_Categories.csv",
         "p_sink_folder" : "AdventureWorks_Product_Categories",
         "p_file_name" : "AdventureWorks_Product_Categories.csv"
     },
     {
-        "p_relative_parameter" : "neha-dev-dot/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Calendar.csv",
+        "p_relative_parameter" : "neha-dev-dot/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data_File/AdventureWorks_Calendar.csv",
         "p_sink_folder" : "AdventureWorks_Calendar",
         "p_file_name" : "AdventureWorks_Calendar.csv"
     },
     {
-        "p_relative_parameter" : "neha-dev-dot/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Customers.csv",
+        "p_relative_parameter" : "neha-dev-dot/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data_File/AdventureWorks_Customers.csv",
         "p_sink_folder" : "AdventureWorks_Customers",
         "p_file_name" : "AdventureWorks_Customers.csv"
     },
     {
-        "p_relative_parameter" : "neha-dev-dot/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Product_Subcategories.csv",
+        "p_relative_parameter" : "neha-dev-dot/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data_File/AdventureWorks_Product_Subcategories.csv",
         "p_sink_folder" : "Product_Subcategories",
         "p_file_name" : "AdventureWorks_Product_Subcategories.csv"
     },
     {
-        "p_relative_parameter" : "neha-dev-dot/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Products.csv",
+        "p_relative_parameter" : "neha-dev-dot/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data_File/AdventureWorks_Products.csv",
         "p_sink_folder" : "AdventureWorks_Products",
         "p_file_name" : "AdventureWorks_Products.csv"
     },
     {
-        "p_relative_parameter" : "neha-dev-dot/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Returns.csv",
+        "p_relative_parameter" : "neha-dev-dot/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data_File/AdventureWorks_Returns.csv",
         "p_sink_folder" : "AdventureWorks_Returns",
         "p_file_name":"AdventureWorks_Returns.csv"
     },
     {
-        "p_relative_parameter" : "neha-dev-dot/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Sales_2015.csv",
+        "p_relative_parameter" : "neha-dev-dot/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data_File/AdventureWorks_Sales_2015.csv",
         "p_sink_folder" : "AdventureWorks_Sales_2015",
         "p_file_name" : "AdventureWorks_Sales_2015.csv"
     },
     {
-        "p_relative_parameter" : "neha-dev-dot/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Sales_2016.csv",
+        "p_relative_parameter" : "neha-dev-dot/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data_File/AdventureWorks_Sales_2016.csv",
         "p_sink_folder" : "AdventureWorks_Sales_2016",
         "p_file_name" : "AdventureWorks_Sales_2016.csv"
     },
     {
-        "p_relative_parameter" : "neha-dev-dot/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Sales_2017.csv",
+        "p_relative_parameter" : "neha-dev-dot/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data_File/AdventureWorks_Sales_2017.csv",
         "p_sink_folder" : "AdventureWorks_Sales_2017",
         "p_file_name" : "AdventureWorks_Sales_2017.csv"
     },
     {
-        "p_relative_parameter" : "neha-dev-dot/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Territories.csv",
+        "p_relative_parameter" : "neha-dev-dot/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data_File/AdventureWorks_Territories.csv",
         "p_sink_folder" : "AdventureWorks_Territories",
         "p_file_name" : "AdventureWorks_Territories.csv"
     }
