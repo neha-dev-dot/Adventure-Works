@@ -24,6 +24,26 @@ This project demonstrates a complete end-to-end **data engineering pipeline** us
 
 ---
 
+## 📚 Topics I Covered
+
+- 💡 Introduction to Azure Data Architecture  
+- 🆓 Setting up an Azure Free Account  
+- 🔍 Exploring Data via APIs (Data Understanding)  
+- ⚙️ Data Ingestion (Bronze Layer)  
+- ☁️ Creating Azure Resources  
+- 🛠️ Azure Data Factory (ADF) Overview & Real-Time Scenarios  
+- 📂 Azure Data Lake Gen2 Overview  
+- 🔄 ETL Pipelines with Azure Data Factory  
+- 🧠 Azure Databricks Setup & Cluster Configuration  
+- 🛡️ Working with Service Principals  
+- 🧪 Data Transformation using PySpark & Databricks (Silver Layer)  
+- 🔥 Apache Spark Concepts  
+- 📊 Big Data Analytics with PySpark  
+- 🧱 Azure Synapse Analytics (Gold Layer)  
+- 🧩 Using `OPENROWSET()` & External Tables in Synapse  
+- 🔗 Integrating Synapse Data Warehouse with Power BI  
+- 🧭 Azure Data Engineer Interview Questions & Best Practices
+
 
 ## ✅ Workflow Overview
 
@@ -99,11 +119,10 @@ Below are some screenshots representing some steps of the project:
 
 
 ## 🧠 Learning Outcomes
-Practical understanding of Lakehouse architecture
-
-Hands-on with Delta Lake, PySpark, Synapse SQL, and Power BI
-
-Real-world ETL pipeline creation, automation, and reporting
+- Designing and building scalable data pipelines using Azure Data Factory  
+- Performing transformations using Databricks + PySpark  
+- Leveraging Azure Synapse for analytics and warehousing  
+- Handling real-time data and large-scale processing with Apache Spark  
 
 ---
 
