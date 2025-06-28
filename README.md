@@ -23,6 +23,15 @@ This project demonstrates a complete end-to-end **data engineering pipeline** us
 - Build interactive dashboards using Power BI.
 
 ---
+## 📂 Data Source
+
+The dataset used in this project is from **Kaggle**:
+
+🔗 [Adventure Works Dataset on Kaggle](https://www.kaggle.com/datasets/ukveteran/adventure-works)
+
+This dataset is commonly used for practice in data engineering, data analytics, and business intelligence. It includes multiple tables such as customers, sales, products, and more — ideal for ETL, transformation, and warehousing use cases.
+
+---
 
 ## 📚 Topics I Covered
 
