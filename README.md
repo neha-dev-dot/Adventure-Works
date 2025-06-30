@@ -1,4 +1,4 @@
-# 📊 Adventure Works Data Engineering Project
+# 📊 Adventure Works Data Analysis
 
 This project demonstrates a complete end-to-end **data engineering pipeline** using **Azure Databricks**, **Azure Data Lake Storage (ADLS)**, **Azure Synapse Analytics**, and **Power BI**. It follows the Medallion Architecture pattern: **Bronze → Silver → Gold**, and delivers meaningful business insights through data visualization.
 
